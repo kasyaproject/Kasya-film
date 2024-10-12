@@ -1,4 +1,12 @@
+// import { useEffect } from "react";
+// Api Movie
+// import { getMovieList } from "../api/movie.js";
+
 const trending = () => {
+  // useEffect(() => {
+  //   getMovieList();
+  // }, []);
+
   return (
     <div className="transition-transform duration-300 transform bg-yellow-50 hover:scale-105">
       {/* IMage Film */}
